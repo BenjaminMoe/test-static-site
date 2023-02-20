@@ -1,0 +1,22 @@
+{
+  "name": "test-static-site",
+  "version": "1.0.0",
+  "description": "This is a test static site to use with GIthub pages",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminMoe/test-static-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminMoe/test-static-site/issues"
+  },
+  "homepage": "https://github.com/BenjaminMoe/test-static-site#readme"
+}
